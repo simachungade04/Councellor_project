@@ -13,6 +13,8 @@ public class Application {
 	  int i =20;
 }
 
+‌             int j = 30;
+
 		springAllication(Applicationclsses);
 	}
 
