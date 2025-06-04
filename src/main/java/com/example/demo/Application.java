@@ -15,7 +15,7 @@ public void m2(){
 
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
-                
+                string name = "java";
 	}
 //jira 101
   public void m1(){
