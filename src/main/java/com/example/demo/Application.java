@@ -20,7 +20,8 @@ public void m2(){
 //jira 101
   public void m1(){
 
-   int i=10;
+   int i=10;\
+int k = 5;
    int j= 20;
 }
 
